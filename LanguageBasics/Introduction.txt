@@ -1,0 +1,18 @@
+Variables
+You've already learned that objects store their state in field. however, the java
+programming language also uses the term "varibale" as well. this section discuess this relationship
+, plus variable naming rules and conventions, basic data types (primitive types, character Strings and arrys)
+, default values, and literals.
+
+Operators
+this section describes the Operators of the java programming language. it presents the most commonly-used
+Operators first, and the less commonly-used Operators lasts. each discussion include code samples.
+ 
+Expressions, statements, and blocks
+Operators may be used in building Expressions, which compute values, Expressions are the core components of
+statements, statements may be grouped into blocks.
+
+Control Flow statements
+this section describes the control flow statements supported by the java programming language. it covers the 
+decisions-making, looping, and branching statements that enable your program to conditionally execute particular
+block of code.
